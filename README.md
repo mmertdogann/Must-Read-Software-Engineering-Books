@@ -1,6 +1,6 @@
 # Must Read Software Engineering Books
 
-List of must-read books for those who want to improve themselves in the field of Software Engineering.
+> List of must-read books for those who want to improve themselves in the field of Software Engineering.
 
 1. Clean Code by Robert Martins
 2. Design Patterns: Elements of Reusable Object-Oriented Software by Eric Gamma
