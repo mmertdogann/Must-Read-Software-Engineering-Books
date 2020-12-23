@@ -24,4 +24,5 @@ Book by Gayle Laakmann McDowell
 Book by Michael C. Feathers
 19. Designing Data-Intensive Applications
 20. Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)
+21. Domain-Driven Design by Eric Evans
 
