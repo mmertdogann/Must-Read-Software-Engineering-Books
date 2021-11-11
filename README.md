@@ -12,17 +12,15 @@
 8. Refactoring: Improving the Design of Existing Code by Martin Fowler
 9. The Art of Unit Testing by Roy Osherove 
 10. Soft Skills: The Software Developer’s Life Manual by John Sonmez
-11. Cracking the Coding Interview
-Book by Gayle Laakmann McDowell
+11. Cracking the Coding Interview Book by Gayle Laakmann McDowell
 12. The Pragmatic Programmer by Andrew Hunt and David Thomas
-13. Introduction to Algorithms, 3rd Edition (The MIT Press)
-14. The Phoenix Project by Gene Kim
-15. Peopleware: Productive Projects and Teams by Timothy Lister and Tom DeMarco
-16. Joel on Software by Joel Spolsky
-17. Head First Design Patterns by Eric Freeman
-18. Working Effectively with Legacy Code
-Book by Michael C. Feathers
-19. Designing Data-Intensive Applications
-20. Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)
-21. Domain-Driven Design by Eric Evans
-
+13. The Phoenix Project by Gene Kim
+14. The Unicorn Project by Gene Kim
+15. Introduction to Algorithms, 3rd Edition (The MIT Press)
+16. Peopleware: Productive Projects and Teams by Timothy Lister and Tom DeMarco
+17. Joel on Software by Joel Spolsky
+18. Head First Design Patterns by Eric Freeman
+19. Working Effectively with Legacy Code Book by Michael C. Feathers
+20. Designing Data-Intensive Applications
+21. Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)
+22. Domain-Driven Design by Eric Evans
